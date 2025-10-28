@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Current Role
 
-I am part of the **AI & Robotics team at [Kiwibot](https://github.com/kiwicampus)**, working on cutting-edge solutions for autonomous delivery robots.
+I am part of the **Autonomy team at [Kiwibot](https://github.com/kiwicampus)**, working on cutting-edge solutions for autonomous delivery robots.
 
 ---
 
